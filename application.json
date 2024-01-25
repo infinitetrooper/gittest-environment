@@ -13,15 +13,15 @@
       "isDefault": false
     },
     {
-      "id": "Home",
+      "id": "Query Testing",
       "isDefault": true
     },
     {
-      "id": "Query Testing",
+      "id": "License Expiry",
       "isDefault": false
     },
     {
-      "id": "License Expiry",
+      "id": "new-tic-tac-toe",
       "isDefault": false
     }
   ],
@@ -29,6 +29,9 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    },
     "navigationSetting": {
       "showNavbar": true,
       "orientation": "side",
@@ -51,10 +54,10 @@
   },
   "unpublishedCustomJSLibs": [
     {
-      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
     },
     {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
     },
     {
       "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
