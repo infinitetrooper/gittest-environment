@@ -26,7 +26,7 @@
         {"key": "borderRadius"},
         {"key": "boxShadow"}
     ],
-    "leftColumn": 0.5,
+    "leftColumn": 1,
     "defaultModel": "{\n  \"tips\": [\n    \"Pass data to this widget in the default model field\",\n    \"Access data in the javascript file using the appsmith.model variable\",\n    \"Create events in the widget and trigger them in the javascript file using appsmith.triggerEvent('eventName')\",\n    \"Access data in CSS as var(--appsmith-model-{property-name})\"\n  ]\n}",
     "borderWidth": "1",
     "theme": "{{appsmith.theme}}",
@@ -35,7 +35,7 @@
     "key": "hgco1rvwwr",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
-    "rightColumn": 63.5,
+    "rightColumn": 63,
     "isSearchWildcard": true,
     "widgetId": "1a4728f8pv",
     "isVisible": true,
