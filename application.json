@@ -11,6 +11,10 @@
     {
       "id": "Pure CSS TTT",
       "isDefault": false
+    },
+    {
+      "id": "audio",
+      "isDefault": false
     }
   ],
   "viewMode": false,
